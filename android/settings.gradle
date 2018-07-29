@@ -1,0 +1,3 @@
+rootProject.name = 'boilerplate_ts_rn'
+
+include ':app'
